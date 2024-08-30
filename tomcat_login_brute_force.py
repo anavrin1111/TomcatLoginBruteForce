@@ -198,6 +198,6 @@ if __name__ == "__main__":
 
     else:
 
-        cprint("No credentials were found", "red")
+        cprint("[-] No credentials were found", "red")
 
 
