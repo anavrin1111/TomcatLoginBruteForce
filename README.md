@@ -1,5 +1,6 @@
 # TomcatLoginBruteForce
 Brute force Tomcat login basic authorization.
+Used in the HTB CTF machine 'Sunday'.
 
 ## Usage
 
